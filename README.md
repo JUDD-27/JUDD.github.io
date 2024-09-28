@@ -28,8 +28,8 @@ My academics and profecional interest are:
 * Digital Art
    * I work with online commissions.
 * I am currently enrolled on:
-* Cybersecurrity AAS.
-* Web & UX Design. 
+   * Cybersecurrity AAS.
+   * Web & UX Design AAS. 
 
 #### Some of my hobbits are:
  
@@ -41,7 +41,7 @@ As I stated before, I grew up by the sea, so my life revolved around the ocean. 
    * Watercolor
    * Gouache
    * Acrylics
-   * This is the most challenging   medium I have tried, and I'm still not even close to mastering it. 
+     * This is the most challenging   medium I have tried, and I'm still not even close to mastering it. 
 
 * Water activities:
    * Swimming
@@ -52,22 +52,22 @@ As I stated before, I grew up by the sea, so my life revolved around the ocean. 
 
 1. Art related websited:
 
-    - [Patreon](https://www.patreon.com/loish)
+  - [Patreon](https://www.patreon.com/loish)
 
-     This website is perfect for engaging with digital creators. I added the extension to one of my favorite artists. She has been in the visual industry for 20 years; she decided to create a Patreon at the beginning of the pandemic, where they teach art principles for visual development and character design. 
+     - This website is perfect for engaging with digital creators. I added the extension to one of my favorite artists. She has been in the visual industry for 20 years; she decided to create a Patreon at the beginning of the pandemic, where they teach art principles for visual development and character design. 
  
-     - [Discord](https://www.discord.com)
+  - [Discord](https://www.discord.com)
 
-     Discord is a great platform to build a community, to learn and share knowledge; this one is not just limited to the artist discourse community  but to others as well. 
+     - Discord is a great platform to build a community, to learn and share knowledge; this one is not just limited to the artist discourse community  but to others as well. 
 
 2. Profesional growth websites:
 
-    - [LinkendIn](https://linkendin.com)
+  - [LinkendIn](https://linkendin.com)
 
-     I discovered this platform through WTCC. What I like the most about this platform is the learning section and how much advantage someone can take from it.
+     - I discovered this platform through WTCC. What I like the most about this platform is the learning section and how much advantage someone can take from it.
 
-     - [YouTube](https://www.youtube.com)
+  - [YouTube](https://www.youtube.com)
 
-     This was the most underated website from my part, until I started learning HTML and CSS and I had to rely on Youtube to solve some problem.
+     - This was the most underated website from my part, until I started learning HTML and CSS and I had to rely on Youtube to solve some problem.
 
     
