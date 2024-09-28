@@ -23,7 +23,7 @@
 
 ## My Interests
  
-My academics and profecional interest are:
+#### My academics and profecional interest are:
 
 * Digital Art
    * I work with online commissions.
@@ -41,7 +41,7 @@ As I stated before, I grew up by the sea, so my life revolved around the ocean. 
    * Watercolor
    * Gouache
    * Acrylics
-     * This is the most challenging   medium I have tried, and I'm still not even close to mastering it. 
+    * This is the most challenging   medium I have tried, and I'm still not even close to mastering it. 
 
 * Water activities:
    * Swimming
