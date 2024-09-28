@@ -62,7 +62,7 @@ As I stated before, I grew up by the sea, so my life revolved around the ocean. 
 
 2. Profesional growth websites:
 
-  - [LinkendIn](https://www.linkendin.com)
+  - [LinkedIn](https://www.linkedin.com)
 
      - I discovered this platform through WTCC. What I like the most about this platform is the learning section and how much advantage someone can take from it.
 
