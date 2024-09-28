@@ -54,7 +54,7 @@ As I stated before, I grew up by the sea, so my life revolved around the ocean. 
 
   - [Patreon](https://www.patreon.com/loish)
 
-     - This website is perfect to engage with digital creators. I added the extension to one of my favorite artists, She has been in the visual industry for over 20 years. She decided to create a Patreon at the beginning of the pandemic, where they teach art principles for visual development and character design. 
+     - This website is perfect to engage with digital creators. I added the extension to one of my favorite artist, She has been in the visual industry for over 20 years. She decided to create a Patreon at the beginning of the pandemic, where she teach art principles for visual development and character design. 
  
   - [Discord](https://www.discord.com)
 
