@@ -33,9 +33,9 @@ But overall this is how must of the proccess is break in the course of the time 
 ## Timeline Breakdown 
 
 **_the timeline is break into three sections:_**
-*Commission
-*Creative Process
-*Delivery
+  *Commission
+  *Creative Process
+  *Delivery
 
 1. Commission:
 
